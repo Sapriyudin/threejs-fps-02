@@ -1,0 +1,26 @@
+// Meridian Yard palette: dusk industrial yard. Six colours carry the whole look:
+// warm dusk sky, cool concrete, rusted steel, hazard amber, Vanguard blue, Crimson red.
+export const PALETTE = {
+  sky: 0x2a2f3d,
+  skyTop: 0x1c2230,
+  skyHorizon: 0xc96f2e,
+  canvas: 0x232830,
+  ground: 0x3a3f45,
+  groundLine: 0x2e333a,
+  concrete: 0x8a8f94,
+  concreteDark: 0x5c6167,
+  steel: 0x4a5560,
+  rust: 0x8a4a2a,
+  containerBlue: 0x2e5a7a,
+  containerRed: 0x7a2e2e,
+  containerGreen: 0x3a5a3a,
+  crate: 0x9a7a4a,
+  accent: 0xf0a830,
+  ink: 0xe9e6df,
+  muted: 0x9aa2ab,
+  vanguard: 0x3a8ad9,
+  crimson: 0xd94a3a,
+  health: 0x7ac74a,
+  siteA: 0xf0a830,
+  siteB: 0x3a8ad9,
+};
